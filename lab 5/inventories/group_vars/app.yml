@@ -1,6 +1,6 @@
 postgresql_data_path: /var/lib/postgresql
 postgresql_conf_path: /etc/postgresql/12/main
-postgresql_custom_data_path: "/home/devopc/test"
+postgresql_custom_data_path: "/home/devops/test"
 
 postgresql_databases:
   - users
